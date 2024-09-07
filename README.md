@@ -20,6 +20,12 @@ A boat racing game in which we control a boat and compete with other boats.
 * C#
 * Asset Store
 
+### Requirements
+
+---
+
+* Unity
+
 ### Design Patterns
 
 ---
@@ -27,12 +33,6 @@ A boat racing game in which we control a boat and compete with other boats.
 * Singleton
 * Observer
 * Object Pool
-
-### Requirements
-
----
-
-* Unity
   
 ### Screenshots
 
